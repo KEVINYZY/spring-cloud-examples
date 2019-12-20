@@ -1,5 +1,6 @@
-置顶。zdzd
 # Spring Cloud Examples
+
+挺好的例子，本地运行起来了。
 
 Demo website：http://www.ityouknow.com/
 
